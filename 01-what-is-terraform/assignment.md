@@ -8,7 +8,7 @@ timelimit: 600
 ---
 🗂️ Tabs
 ======
-For this track you have multiple tabs in the left window. The **Editor** tab that is currently displayed is Visual Studio Code.
+For this track you have multiple tabs in the left window. The **Editor** tab that is currently displayed is Visual Studio Code. testinfg
 Beside it is the is the **Terminal** tab, where you can run CLI commands.
 
 Alternately, you can run CLI commands using the terminal built into VSCode by pressing `CTRL+SHIFT+~`
