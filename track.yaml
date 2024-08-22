@@ -1,0 +1,34 @@
+slug: terraform-iac
+id: oxhudcwnzlt4
+revision: 1
+title: Terraform-iac
+teaser: Learn the basics of Terraform and provision cloud resources.
+description: |
+  # What is Terraform?
+
+  Terraform is an Infrastructure as Code (IaC) tool. IaC is the process of managing and provisioning IT infrastructure using machine-readable definition files.
+
+  ![Terraform](https://www.datocms-assets.com/58478/1640019487-og-image.png)
+
+  Start the track and learn basics of Terraform.
+icon: https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg
+tags:
+- terraform
+owner: instruqt-support
+developers: []
+instructors: []
+show_timer: true
+skipping_enabled: true
+idle_timeout: 0
+timelimit: 72000
+sandbox_preset: ""
+lab_config:
+  overlay: false
+  width: 33
+  position: right
+  extend_ttl: 0
+  sidebar_enabled: true
+  hideStopButton: false
+  feedback_recap_enabled: true
+  feedback_tab_enabled: false
+  loadingMessages: true
