@@ -6,6 +6,8 @@ title: Terraform Azure
 teaser: Use Azure console to manage your  virtual machine.
 difficulty: basic
 timelimit: 600
+lab_config:
+  default_layout_sidebar_size: 0
 ---
 
 👋 Introduction

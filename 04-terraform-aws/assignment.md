@@ -6,6 +6,8 @@ title: Terraform AWS
 teaser: Every cloud starts from VM
 difficulty: basic
 timelimit: 600
+lab_config:
+  default_layout_sidebar_size: 0
 ---
 
 👋 Introduction

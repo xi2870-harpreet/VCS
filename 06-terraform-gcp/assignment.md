@@ -5,6 +5,8 @@ type: challenge
 title: Terraform GCP
 difficulty: basic
 timelimit: 1000
+lab_config:
+  default_layout_sidebar_size: 0
 ---
 👋 Introduction
 ===============

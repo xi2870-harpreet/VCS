@@ -5,8 +5,10 @@ type: challenge
 title: What IsTerraform?
 difficulty: basic
 timelimit: 600
+lab_config:
+  default_layout_sidebar_size: 0
 ---
-🗂️ Tabs
+🗂️ Tabs123
 ======
 For this track you have multiple tabs in the left window. The **Editor** tab that is currently displayed is Visual Studio Code.
 Beside it is the is the **Terminal** tab, where you can run CLI commands.

@@ -21,7 +21,6 @@ show_timer: true
 skipping_enabled: true
 idle_timeout: 0
 timelimit: 72000
-sandbox_preset: ""
 lab_config:
   overlay: false
   width: 33
@@ -31,4 +30,6 @@ lab_config:
   hideStopButton: false
   feedback_recap_enabled: true
   feedback_tab_enabled: false
+  lab_v2: false
+  override_challenge_layout: false
   loadingMessages: true
